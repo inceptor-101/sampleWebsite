@@ -1,0 +1,7 @@
+#container{
+    border: 5px black solid;
+    margin: 10px;
+}
+h1{
+    text-transform: uppercase;
+}
